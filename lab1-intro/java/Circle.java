@@ -8,6 +8,8 @@ class Circle {
     }
   }
 
+  // Edit made by Jeremiah Kibuuka 220166445
+  
   public Circle(int size) {
     this.size = size;
   }

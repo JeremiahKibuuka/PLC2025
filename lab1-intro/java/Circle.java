@@ -9,7 +9,7 @@ class Circle {
   }
 
   // Edit made by Jeremiah Kibuuka 220166445
-  
+  // Edit made by Jeremiah Kibuuka in Gitpod
   public Circle(int size) {
     this.size = size;
   }
